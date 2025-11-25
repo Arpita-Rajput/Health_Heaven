@@ -33,3 +33,12 @@ The chatbot provides clear, age-appropriate, and science-backed answers about in
 To help people make informed, healthier daily food choices with quick, reliable ingredient insights.
 
 <img width="1872" height="843" alt="image" src="https://github.com/user-attachments/assets/17dce35c-d26a-42a5-901b-7fd68297f151" />
+
+<img width="1901" height="884" alt="image" src="https://github.com/user-attachments/assets/8d319a89-38bd-4ded-8c28-898dbcc4f75d" />
+
+<img width="726" height="719" alt="image" src="https://github.com/user-attachments/assets/c17f2439-b626-4fc7-8b16-228777bd6fb8" />
+
+<img width="731" height="648" alt="image" src="https://github.com/user-attachments/assets/4d8c4cab-7a2c-4669-906e-a0a56bf22e33" />
+
+
+
